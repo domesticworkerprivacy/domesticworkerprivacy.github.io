@@ -198,4 +198,23 @@ We call on the government to:
 - At the point of applying for the visa, provide all domestic workers with an accurate and up-to date information sheet about their rights in their first language – this is supposed to be happening but [research shows most workers not receiving it](http://www.kalayaan.org.uk/campaign-posts/dignity-not-destitution-the-impact-of-differential-rights-of-work-for-migrant-domestic-workers-in-the-national-referral-mechanism/).
 - Run information sessions for domestic workers to learn about their rights – this was supposed to be instituted by the government following [James Ewins’s 2015 review](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/486532/ODWV_Review_-_Final_Report__6_11_15_.pdf) but the government have never implemented it.
 - Give all domestic workers identified as potential victims of trafficking and slavery the right to work while they wait for a final decision under the National Referral Mechanism (further information [here](http://www.kalayaan.org.uk/campaign-posts/dignity-not-destitution-the-impact-of-differential-rights-of-work-for-migrant-domestic-workers-in-the-national-referral-mechanism/)).
-- End the Hostile Environment.
+- End the hostile environment.
+
+| **Useful contacts** |
+| --- |
+|
+- [The Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/)
+	- Contact: https://www.thevoiceofdomesticworkers.com/copy-of-contact
+
+- [Kalayaan](http://www.kalayaan.org.uk/contact-us/)
+	- Opening Hours: Monday through Friday, 10:00am —5:00pm. 
+	- Email: info@kalayaan.org.uk
+	- Telephone: For advice, please make an appointment by phoning 020 7243 2942. Advice sessions are available Monday – Friday and select Sundays. Due to high demand the Sunday sessions are only bookable from after the Monday of the same week.
+
+- [Rights of Women](https://rightsofwomen.org.uk/get-advice/)
+	- Email: info@row.org.uk
+
+- [Anti Trafficking and Labour Exploitation Unit](https://atleu.org.uk/)
+	- Telephone: 020 7700 7311
+	- Email: atleuteam@atleu.org.uk |
+
