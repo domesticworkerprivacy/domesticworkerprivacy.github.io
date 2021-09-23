@@ -50,9 +50,7 @@ You can check out these quick privacy guides for your favorite sites to understa
 
 **3. Take time to secure your accounts and devices**
 - Make sure you have a **strong password** for your email accounts that you don't use anywhere else. If you’re worried about remembering lots of different passwords, you can use a [password manager](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers).
- - Some websites let you add a second step when you log in to your account – this is known as ‘two-factor authentication’. This makes it harder for scammers to access your accounts.
- 
- [Find out how to set up two-factor authentication](https://www.ncsc.gov.uk/guidance/setting-two-factor-authentication-2fa) across services like Gmail, Facebook, Twitter, LinkedIn, Outlook and iTunes on the National Cyber Security Centre website.
+  - Some websites let you add a second step when you log in to your account – this is known as ‘two-factor authentication’. This makes it harder for scammers to access your accounts. [Find out how to set up two-factor authentication](https://www.ncsc.gov.uk/guidance/setting-two-factor-authentication-2fa) across services like Gmail, Facebook, Twitter, LinkedIn, Outlook and iTunes on the National Cyber Security Centre website.
 
 - Consider using **antivirus software** on your laptop or phone, and if you already have it, make sure it is up to date to give you more protection.
 - Check if your details have been shared online (the website Have I Been Pwned can help you [check whether your accounts have been put at risk](https://haveibeenpwned.com/).
