@@ -132,13 +132,51 @@ In addition to general privacy and security advice (see Section 1), the [Citizen
 - [Action Fraud](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime), the UK's national reporting centre for fraud: 0300 123 2040
 - [UK Visas & Immigration: Fraud, tricks and scams: guidance](https://www.gov.uk/government/publications/frauds-tricks-and-scams/fraud-tricks-and-scams)
 
-## …
-
+Employer Monitoring
 ### Problem
+Excessive employer monitoring - for example, constant CCTV surveillance or social media stalking - can be a huge threat to your security and privacy. Constant recording can make you feel uncomfortable and stop you from sitting down, resting, or speaking to your family on the phone. Employers should not install cameras or recording devices in private spaces, such as bedrooms and bathrooms. CCTV recording can also be used against you or get you in trouble; for example, if it produces evidence that you were working without a legal right to do so.
+
+In addition to CCTV surveillance, social media surveillance by employers can also be a threat to online safety and impact on your situation in other ways. For example, photos on holiday or at the cinema with employers could be used against you in a court case around the ‘‘[family worker exemption](https://atleu.org.uk/cases/2020/12/15/family-worker-exemption-is-indirectly-discriminatory)’’ (which may allow employers to avoid paying minimum wage if they prove the worker is treated as a member of the family, although the exemption is currently being reviewed.
+
+**Know your legal rights with regard to what employers can and cannot do**
+- Kalayaan summarises some responses to frequently asked questions on employment rights [here](http://www.kalayaan.org.uk/for-workers/employment-rights/).
+- Just because you are in someone’s home does not mean they will have an unlimited right to record you.
+- The law and guidance on employer monitoring are complex, particularly when surveillance takes place in the home, and it is not possible to provide a definitive guide to which monitoring is lawful. However, the following factors are relevant to consider:
+  - Has clear notice of the monitoring been given to you in advance, including when, where and why it is being carried out? Your employer should notify you of any recording devices. Covert (i.e., secret) monitoring is unlikely to be lawful, unless there is a suspicion of criminal activity and alerting you of the recording would make it more difficult to investigate.
+  - Even if you have been made aware of the recording, that doesn't automatically make it lawful and this will depend on other factors.
+  - Is the monitoring taking place in a space mainly used for work, or in a fully private space? Does it cover work activities or activities that are outside your working hours and duties? Monitoring in private spaces such as bathrooms or bedrooms when you are not working is unlikely to be lawful.
+  - What is the goal behind the surveillance, does the surveillance help to achieve this goal, and could the employer achieve this goal in a less intrusive way? Generally speaking, the more intrusive the surveillance is in relation to your privacy, the stronger the reason needed to justify it.
+  - What other safeguards have been put in place to protect your privacy? This could include measures relating to limiting how long the data is kept for. Other laws, such as the [Data Protection Act](https://www.gov.uk/data-protection), regulate how long the employer can use your data; for example, storage of video or audio recordings of you.
 
 ### Practical advice
+-**Avoid adding employers as friends on social media, if possible**.
+  - If your employers are already your friends, consider restricting how much information they can access about you using privacy settings and controls (see General Guide).
+- **Identify where cameras or other monitoring devices are at your workplace**
+  - You may want to initiate the discussion with your employer and ask whether the house where you work has cameras. If so, you should check how many cameras there are and where they are located (e.g., outdoor, indoor, any hidden cameras?).
+- **Have a conversation with your employer**
+  - If you feel comfortable, ask your employer why they decided to install cameras  (e.g., internal monitoring, checking in on the worker or other family members, safety and external security), what type of data cameras collect (audio, video, or both), how data is collected (recorded for later viewing or streamed such that employers have live access on their phone or tablet), what the data collection mode is (continuous or only when triggered), how the data is transferred (over the Internet or not), and how the data is stored (on or off cloud) and for how long.
+  - Other questions you may want to ask:
+    - How often do your employers check camera footage?
+    - In addition to your employers, who has access to camera footage (employers’ family members, friends, work colleagues, etc.)?
+    - Do your employers share camera footage with their social network on social media – like Facebook and Instagram? If your employers did so, would they notify you (or rather would you expect them to notify you and maybe take your permission; would you give your consent; do you prefer consent to be verbal or written)?
+    - How long does the employer store the recordings for?
+  - Consider including expectations about recording and privacy into an employment contract if you have one, such as requesting access to CCTV footage, no hidden surveillance, no audio recording, no sharing of data with third parties, relying on device feedback to tell whether cameras are on/off, and having access to the privacy settings and controls.
+  - Consider sharing your comfort level and security/privacy concerns with regard to cameras, such as whether having cameras inside houses to monitor workers is a sign of trust and respect or not.
+  - If you are facing very intrusive recording that you are not comfortable with (for example, audio recording in private places), and your employer refuses to change their behaviour (or your relationship is such that you are unable to initiate a conversation about it), consider seeking advice on your specific situation from an organisation like [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/), or [Citizen’s Advice](https://www.citizensadvice.org.uk/).
+  - In certain circumstances excessive monitoring could give rise to a legal claim. This would usually be brought in an Employment Tribunal, a specialist body that makes decisions about disputes between employers and employees, such as [unfair or constructive dismissal](https://www.gov.uk/dismissal/unfair-and-constructive-dismissal) and shortfalls in wages.
+    - **You should obtain legal advice on your specific situation from support organisations or a solicitor before making a claim** (ie reporting a problem to the tribunal). Although you are allowed to bring a claim without legal representation, this is likely to be difficult and complex, particularly if your immigration status is insecure.
+    - There are strict time limits for bringing employment tribunal claims, so you should get advice as early as you can.
+    - In some cases it may be possible to resolve a case before it gets to a final hearing.
+    - An Employment Tribunal is supposed to be less formal than an ordinary court, but this does not always mean that proceedings are easy to follow.
+    - Cases in the Employment Tribunal are usually decided by a panel of three: an Employment judge, a person representing employers’ organisations and a person representing employees’ organisations. Some cases are decided by an Employment Judge alone.
 
 ### Further resources
+- **Further information on legalities of recording:**
+  - [UK Government Guidance on the Use of Domestic CCTV](https://www.gov.uk/government/publications/domestic-cctv-using-cctv-systems-on-your-property/domestic-cctv-using-cctv-systems-on-your-property)
+  - [UK Government Guidance on Monitoring Staff at Work](https://www.gov.uk/data-protection-your-business/monitoring-staff-at-work)
+  - [Thompsons Solicitors: CCTV Surveillance in the Workplace](https://www.thompsonstradeunion.law/news/lelr/bi-annual-lelr-spring-2016-137/cctv-surveillance) – this was prepared in 2016 so may not be fully up-to-date, but gives some helpful guidance.
+- **Further information on employment tribunals:**
+  - [Citizens Advice Bureau: Understanding Employment Tribunals](https://www.citizensadvice.org.uk/work/problems-at-work/employment-tribunals/understanding-employment-tribunals/)
 
 ## …
 
