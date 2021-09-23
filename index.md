@@ -56,6 +56,10 @@ You can check out these quick privacy guides for your favorite sites to understa
 - Check if your details have been shared online (the website Have I Been Pwned can help you [check whether your accounts have been put at risk](https://haveibeenpwned.com/).
 - check if your website’s connection is secure (look for HTTPs lock icons in the browser address bar). Try to avoid visiting websites where HTTPs has not been enabled (that is, HTTP).
 
+#### Further resources:
+- [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
+- [EFF Surveillance Self Defence Guide](https://ssd.eff.org/en)
+
 ...
 You can use the [editor on GitHub](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
