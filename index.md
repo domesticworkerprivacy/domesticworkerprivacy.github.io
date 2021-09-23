@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# Digital Privacy & Security Guide
+## *Reconfigure & Voice of Domestic Workers*
+
 
 You can use the [editor on GitHub](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
