@@ -62,7 +62,22 @@ You can check out these quick privacy guides for your favorite sites to understa
 
 ## Immigration and Government Surveillance
 ### Problem
-The UK’s ‘hostile environment’ can make life in the UK difficult and expensive, especially if you do not have indefinite leave to remain. Many workers reported a fear of government institutions, specifically the Home Office and the police, due to the power these structures have over the immigration status of workers. You might feel concern or confusion about your rights, from topics like accessing healthcare in the UK to seeking advice and protection from excessive policing.### Practical advice
+The UK’s ‘hostile environment’ can make life in the UK difficult and expensive, especially if you do not have indefinite leave to remain. Many workers reported a fear of government institutions, specifically the Home Office and the police, due to the power these structures have over the immigration status of workers. You might feel concern or confusion about your rights, from topics like accessing healthcare in the UK to seeking advice and protection from excessive policing.
+
+### Practical advice
+No matter your immigration status in the UK, your human rights matter! Here are some practical steps you can take:
+- **Join an organisation** such as [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), which can provide a sense of community as well as help you learn and mobilise on relevant issues.
+- **Join a union** such as [Unite the Union](https://www.unitetheunion.org/) (one of the UK’s largest trade unions), which can offer advice and help you understand your legal rights at work. They can also communicate on your behalf with legal aid organisations and lawyers.
+- **Make a note** of legal aid organisations or law centres in your area - the Law Centres Network can provide legal advice on immigration along with other concerns, such as employment, housing and healthcare.
+- **Know your rights.** This can apply to a wide range of issues; for example, health, housing and employment. [Kalayaan](http://www.kalayaan.org.uk/contact-us/), a London-based charity for domestic workers, also suggests the following advice:
+  - Keep a copy of your passport and Biometric Residence Permit (PRB) and give a copy to a trusted friend or relative.
+  - Open an email account that your employer cannot access and give the password to a trusted friend.
+  - Give the contact details of your employer and any support organisations that are helping you to your family in your country.
+  - Do not keep large sums of money at home. Keep it in a safe place such as a bank or post office. Do not lend money to or borrow money from people you do not know very well.
+  - If you are going alone to an employer’s home for a job interview, give the address and phone number to a friend or relative and tell them when you expect to be back.
+  - Keep the numbers of people and organisations that you can call when you need help with you at all times – these could include your local police station, your solicitor, your friends, [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/) and other support organisations.
+  - Note that employers are not allowed to hold on to your passport or any of your other official documents, except if they are completing a right to work check, which should take no more than a day. If your employer is holding onto your passport without your agreement, they could be breaking the law.
+
 
 ### Further resources
 
