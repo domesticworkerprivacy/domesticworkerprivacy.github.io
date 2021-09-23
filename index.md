@@ -1,7 +1,7 @@
 # Digital Privacy & Security Guide
 ##### *Reconfigure & Voice of Domestic Workers*
 
-### ***Who produced this guide?***
+### Who produced this guide?
 This guide was put together by a team of researchers at the University of Oxford and King’s College London, in collaboration with [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), an education and support group run by and for migrant domestic workers and Migrants Organise, a grassroots platform where migrants and refugees organise for justice.
 
 We produced the guide after five workshops with migrant domestic workers, where we discussed different threats to digital privacy and security and advice for staying safe.
@@ -18,7 +18,7 @@ Contributors:
 - Mallika Balakrishnan, Migrants Organise
 - Natalie Sedacca, University of Exeter & Kalayaan Trustee
 
-### ***The purpose of this guide***
+### The purpose of this guide
 We have written this guide to help migrant domestic workers in the UK and elsewhere to keep themselves safe and protect their privacy both online and offline. Privacy refers to how much others (such as the government, employers or even friends and family) can access information about you. We are also concerned with defending against “surveillance”, which is a word for close monitoring and observation by someone in power.
 
 | Key term | |
@@ -77,6 +77,18 @@ No matter your immigration status in the UK, your human rights matter! Here are 
   - If you are going alone to an employer’s home for a job interview, give the address and phone number to a friend or relative and tell them when you expect to be back.
   - Keep the numbers of people and organisations that you can call when you need help with you at all times – these could include your local police station, your solicitor, your friends, [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/) and other support organisations.
   - Note that employers are not allowed to hold on to your passport or any of your other official documents, except if they are completing a right to work check, which should take no more than a day. If your employer is holding onto your passport without your agreement, they could be breaking the law.
+
+| WHAT TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS |
+| --- |
+| If immigration officers or the police stop you in the street and ask about your immigration status:
+- You DO NOT have to answer any questions.
+- You DO NOT have to tell them your name or address.
+- Tell them that you do not want to talk to them.
+- Stay polite but confident.
+- You can walk away.
+
+You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/). |
+
 
 
 ### Further resources
