@@ -30,7 +30,7 @@ Our guide starts with some general advice for staying safe online. The guide the
 
 Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
 
-### General digital privacy and security advice
+## General digital privacy and security advice
 **1. Think before you click**
 - Do not click on or download anything you don’t trust
 - Be careful about giving personal information away
@@ -56,9 +56,12 @@ You can check out these quick privacy guides for your favorite sites to understa
 - Check if your details have been shared online (the website Have I Been Pwned can help you [check whether your accounts have been put at risk](https://haveibeenpwned.com/).
 - check if your website’s connection is secure (look for HTTPs lock icons in the browser address bar). Try to avoid visiting websites where HTTPs has not been enabled (that is, HTTP).
 
-#### Further resources:
+### Further resources:
 - [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
 - [EFF Surveillance Self Defence Guide](https://ssd.eff.org/en)
+
+## Immigration and government surveillance
+
 
 ...
 You can use the [editor on GitHub](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
