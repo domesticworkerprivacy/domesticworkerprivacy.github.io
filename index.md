@@ -26,7 +26,11 @@ We have written this guide to help migrant domestic workers in the UK and elsewh
 | `Privacy` | How much information you want others (such as the government, employers or even friends and family) to know about you |
 | `Surveillance` | Close monitoring and observation by someone in power, such as the government or an employer |
 
-..
+Our guide starts with some general advice for staying safe online. The guide then focuses on three specific kinds of privacy threat: government surveillance; online scams and strangers; and employer monitoring. These are the threats that domestic workers identified and described to us in five online workshops in May-June 2021.
+
+Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
+
+.
 You can use the [editor on GitHub](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
