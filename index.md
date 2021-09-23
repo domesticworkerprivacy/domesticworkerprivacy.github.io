@@ -149,7 +149,7 @@ In addition to CCTV surveillance, social media surveillance by employers can als
   - What other safeguards have been put in place to protect your privacy? This could include measures relating to limiting how long the data is kept for. Other laws, such as the [Data Protection Act](https://www.gov.uk/data-protection), regulate how long the employer can use your data; for example, storage of video or audio recordings of you.
 
 ### Practical advice
--**Avoid adding employers as friends on social media, if possible**.
+- **Avoid adding employers as friends on social media, if possible**.
   - If your employers are already your friends, consider restricting how much information they can access about you using privacy settings and controls (see General Guide).
 - **Identify where cameras or other monitoring devices are at your workplace**
   - You may want to initiate the discussion with your employer and ask whether the house where you work has cameras. If so, you should check how many cameras there are and where they are located (e.g., outdoor, indoor, any hidden cameras?).
