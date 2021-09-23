@@ -78,18 +78,28 @@ No matter your immigration status in the UK, your human rights matter! Here are 
   - Keep the numbers of people and organisations that you can call when you need help with you at all times – these could include your local police station, your solicitor, your friends, [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/) and other support organisations.
   - Note that employers are not allowed to hold on to your passport or any of your other official documents, except if they are completing a right to work check, which should take no more than a day. If your employer is holding onto your passport without your agreement, they could be breaking the law.
 
-| WHAT TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS |
-| If immigration officers or the police stop you in the street and ask about your immigration status: |
-| - You DO NOT have to answer any questions. |
-| - You DO NOT have to tell them your name or address. |
-| - Tell them that you do not want to talk to them. |
-| - Stay polite but confident. |
-| - You can walk away. |
-| You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/). |
+`**What TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS**`
 
+`If immigration officers or the police stop you in the street and ask about your immigration status:`
+`- You DO NOT have to answer any questions.`
+`- You DO NOT have to tell them your name or address.`
+`- Tell them that you do not want to talk to them.`
+`- Stay polite but confident.`
+`- You can walk away.`
 
+` You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/).`
 
 ### Further resources
+- **Legal Advice on Immigration:**
+  - [Kalayaan](http://www.kalayaan.org.uk/contact-us/), Rights of Women and Praxis all offer free advice services which can be used. [ATHUB](https://athub.org.uk/), the anti-trafficking resource, can also provide information.
+- **Navigating the Hostile Environment:**
+  - [Liberty Guide to the Hostile Environment](https://www.libertyhumanrights.org.uk/issue/report-a-guide-to-the-hostile-environment/)
+  - [#PatientsNotPassports Patients Rights Advice Cards](https://drive.google.com/drive/folders/1lZBdsX-jQkFiJdRltvI-Sr-BdZuYQFQH
+  - [DOTW/JCWI Short Guide to Accessing NHS Healthcare for Migrants](https://www.jcwi.org.uk/Handlers/Download.ashx?IDMF=f785fa96-0b4e-4b02-b780-4a392ae18aef)
+  - [Vaccines for All Resources for Accessing the Coronavirus Vaccine](https://www.vaccineforall.co.uk/resources)
+  - [DOTW Translated Health Information for Patients)[https://www.doctorsoftheworld.org.uk/translated-health-information/]
+- **Healthcare:**
+  - Doctors of the World (based in East London) offers healthcare for anyone struggling to access the NHS by other means. They also run a telephone helpline.
 
 ## …
 
