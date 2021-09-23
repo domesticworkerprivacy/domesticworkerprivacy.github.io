@@ -60,42 +60,35 @@ You can check out these quick privacy guides for your favorite sites to understa
 - [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
 - [EFF Surveillance Self Defence Guide](https://ssd.eff.org/en)
 
-## Immigration and government surveillance
+## …
 
+### Problem
 
-...
-You can use the [editor on GitHub](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Practical advice
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Further resources
 
-### Markdown
+## …
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Problem
 
-```markdown
-Syntax highlighted code block
+### Practical advice
 
-# Header 1
-## Header 2
-### Header 3
+### Further resources
 
-- Bulleted
-- List
+## …
 
-1. Numbered
-2. List
+### Problem
 
-**Bold** and _Italic_ and `Code` text
+### Practical advice
 
-[Link](url) and ![Image](src)
-```
+### Further resources
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## …
 
-### Jekyll Themes
+### Problem
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Practical advice
 
-### Support or Contact
+### Further resources
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
