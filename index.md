@@ -30,7 +30,7 @@ Our guide starts with some general advice for staying safe online. The guide the
 
 Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
 
-## General digital privacy and security advice
+## General Digital Privacy and Security Advice
 **1. Think before you click**
 - Do not click on or download anything you don’t trust
 - Be careful about giving personal information away
@@ -132,7 +132,7 @@ In addition to general privacy and security advice (see Section 1), the [Citizen
 - [Action Fraud](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime), the UK's national reporting centre for fraud: 0300 123 2040
 - [UK Visas & Immigration: Fraud, tricks and scams: guidance](https://www.gov.uk/government/publications/frauds-tricks-and-scams/fraud-tricks-and-scams)
 
-Employer Monitoring
+## Employer Monitoring
 ### Problem
 Excessive employer monitoring - for example, constant CCTV surveillance or social media stalking - can be a huge threat to your security and privacy. Constant recording can make you feel uncomfortable and stop you from sitting down, resting, or speaking to your family on the phone. Employers should not install cameras or recording devices in private spaces, such as bedrooms and bathrooms. CCTV recording can also be used against you or get you in trouble; for example, if it produces evidence that you were working without a legal right to do so.
 
@@ -178,11 +178,24 @@ In addition to CCTV surveillance, social media surveillance by employers can als
 - **Further information on employment tribunals:**
   - [Citizens Advice Bureau: Understanding Employment Tribunals](https://www.citizensadvice.org.uk/work/problems-at-work/employment-tribunals/understanding-employment-tribunals/)
 
-## …
+## Broader changes
+While we hope this guide helps you take control of your digital privacy and security, it’s important to remember that the privacy and security threats we’ve described are not your fault. To keep domestic workers—and everyone else—safe online, we  need broader societal changes.
 
-### Problem
+Avoiding surveillance by your employer should not have to be your responsibility. Employers need to understand and respect domestic workers’ right to privacy and safety, and refrain from excessive monitoring.
 
-### Practical advice
+The government also has responsibilities to keep domestic workers safe, and needs to make changes to do so. We support organisations such as [Voice of Domestic Workers in their campaign to reinstate the Overseas Domestic Worker Visa](https://www.thevoiceofdomesticworkers.com/), which guaranteed some basic rights for migrant workers. This visa was unfortunately [changed in 2012](https://www.labourexploitation.org/news/international-domestic-workers%E2%80%99-day-2019-rights-domestic-workers-uk-need-far-reaching-and), so that conditions for workers became much less favourable.Since 2012, migrant domestic workers are instead tied to their employers on six month non-renewable visas, which makes them often unable to escape situations of abuse or harassment. While this visa exists and continues to force workers to be dependent on specific employers, migrant domestic workers have severely limited freedoms and basic human rights are often [not valued](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26423). This has a direct impact on digital privacy and security. For example, it would be far easier for a worker to confront their employer about surveillance if that worker had more secure employment and immigration status.
 
-### Further resources
+Creating safe conditions for migrant domestic workers will require ending hostile environment policies: the hostile environment tries to make the UK inhospitable for undocumented migrants, ultimately creating violent and discriminatory realities for all migrants as well as people of colour. British institutions such as the Home Office continue trying to strengthen the hostile environment, endangering migrants. For example, the UK government is currently pushing a new Nationality and Borders Bill through Parliament. The new bill [seeks](https://drive.google.com/file/d/1rhknz24ml_lvGeK-qA6VuE0vrhTKcBRc/view) to strengthen this government’s ability to criminalise people who seek sanctuary in the UK, while at the same time restricting access to crucial resources, such as support for victims of modern slavery. The government should scrap the bill and hostile environment policies that endanger migrant workers. Migrant domestic workers in the UK should be able to access healthcare freely through a truly universal NHS, regardless of citizenship and immigrant status.
 
+The hostile environment also impacts migrant domestic workers through data sharing. Data sharing across different and unrelated government institutions, such as the Home Office and the NHS, is a major barrier to migrant domestic workers feeling safe and being comfortable accessing healthcare. Similarly, police sharing data of victims of crime with immigration enforcement can leave migrants fearful to report abuse.
+
+The government should not police vulnerable workers’ immigration status. Many workers who escape abusive employment situations may have to do so without their passports— police and other law enforcement forces must accommodate this reality.
+
+We call on the government to:
+- Reinstate the pre-2012 conditions on the Overseas Domestic Worker visa, including a generalised right to extend the visa and paths to bring family members and to settlement.
+- Repeal the ‘‘[family worker exemption](http://www.kalayaan.org.uk/wp-content/uploads/2021/06/Response-to-Low-Pay-Commission-Consultation-June-2021-Final.pdf)’’ from minimum wage that has sanctioned some live-in domestic workers being paid below minimum wage – this was recently successfully challenged in an Employment Tribunal and is now being reviewed by the Low Pay Commission.
+- Repeal or alter regulations (such as Reg 19 Working Time Regulations – SI 1998/1833 and Health and Safety at Work Act, 1974) which exclude domestic workers from key working time protections such as the maximum 48 hour working week and labour inspections.  In introducing labour inspections it would be essential to include a [‘firewall’ between the inspecting body and immigration enforcement](https://www.labourexploitation.org/publications/opportunity-knocks-improving-responses-labour-exploitation-secure-reporting).
+- At the point of applying for the visa, provide all domestic workers with an accurate and up-to date information sheet about their rights in their first language – this is supposed to be happening but [research shows most workers not receiving it](http://www.kalayaan.org.uk/campaign-posts/dignity-not-destitution-the-impact-of-differential-rights-of-work-for-migrant-domestic-workers-in-the-national-referral-mechanism/).
+- Run information sessions for domestic workers to learn about their rights – this was supposed to be instituted by the government following [James Ewins’s 2015 review](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/486532/ODWV_Review_-_Final_Report__6_11_15_.pdf) but the government have never implemented it.
+- Give all domestic workers identified as potential victims of trafficking and slavery the right to work while they wait for a final decision under the National Referral Mechanism (further information [here](http://www.kalayaan.org.uk/campaign-posts/dignity-not-destitution-the-impact-of-differential-rights-of-work-for-migrant-domestic-workers-in-the-national-referral-mechanism/)).
+- End the Hostile Environment.
