@@ -80,13 +80,13 @@ No matter your immigration status in the UK, your human rights matter! Here are 
 
 | WHAT TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS |
 | --- |
-| If immigration officers or the police stop you in the street and ask about your immigration status:
-- You DO NOT have to answer any questions.
-- You DO NOT have to tell them your name or address.
-- Tell them that you do not want to talk to them.
-- Stay polite but confident.
-- You can walk away.
-You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/). |
+| If immigration officers or the police stop you in the street and ask about your immigration status: |
+| - You DO NOT have to answer any questions. |
+| - You DO NOT have to tell them your name or address. |
+| - Tell them that you do not want to talk to them. |
+| - Stay polite but confident. |
+| - You can walk away. |
+| You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/). |
 
 
 
