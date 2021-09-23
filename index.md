@@ -86,7 +86,6 @@ No matter your immigration status in the UK, your human rights matter! Here are 
 - Tell them that you do not want to talk to them.
 - Stay polite but confident.
 - You can walk away.
-
 You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/). |
 
 
