@@ -60,11 +60,9 @@ You can check out these quick privacy guides for your favorite sites to understa
 - [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
 - [EFF Surveillance Self Defence Guide](https://ssd.eff.org/en)
 
-## …
-
+## Immigration and Government Surveillance
 ### Problem
-
-### Practical advice
+The UK’s ‘hostile environment’ can make life in the UK difficult and expensive, especially if you do not have indefinite leave to remain. Many workers reported a fear of government institutions, specifically the Home Office and the police, due to the power these structures have over the immigration status of workers. You might feel concern or confusion about your rights, from topics like accessing healthcare in the UK to seeking advice and protection from excessive policing.### Practical advice
 
 ### Further resources
 
