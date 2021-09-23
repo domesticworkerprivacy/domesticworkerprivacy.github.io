@@ -211,7 +211,7 @@ We call on the government to:
   - Telephone: For advice, please make an appointment by phoning 020 7243 2942. Advice sessions are available Monday – Friday and select Sundays. Due to high demand the Sunday sessions are only bookable from after the Monday of the same week.
 
 - [Rights of Women](https://rightsofwomen.org.uk/get-advice/)
-- Email: info@row.org.uk
+  - Email: info@row.org.uk
 
 - [Anti Trafficking and Labour Exploitation Unit](https://atleu.org.uk/)
   - Telephone: 020 7700 7311
