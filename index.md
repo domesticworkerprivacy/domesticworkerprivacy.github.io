@@ -79,7 +79,6 @@ No matter your immigration status in the UK, your human rights matter! Here are 
   - Note that employers are not allowed to hold on to your passport or any of your other official documents, except if they are completing a right to work check, which should take no more than a day. If your employer is holding onto your passport without your agreement, they could be breaking the law.
 
 | WHAT TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS |
-| --- |
 | If immigration officers or the police stop you in the street and ask about your immigration status: |
 | - You DO NOT have to answer any questions. |
 | - You DO NOT have to tell them your name or address. |
