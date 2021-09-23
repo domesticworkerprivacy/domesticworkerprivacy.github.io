@@ -18,7 +18,7 @@ Contributors:
 - Mallika Balakrishnan, Migrants Organise
 - Natalie Sedacca, University of Exeter & Kalayaan Trustee
 
-### The purpose of this guide
+### ***The purpose of this guide***
 We have written this guide to help migrant domestic workers in the UK and elsewhere to keep themselves safe and protect their privacy both online and offline. Privacy refers to how much others (such as the government, employers or even friends and family) can access information about you. We are also concerned with defending against “surveillance”, which is a word for close monitoring and observation by someone in power.
 
 | Key term | |
