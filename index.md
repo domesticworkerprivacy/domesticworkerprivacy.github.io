@@ -79,6 +79,7 @@ No matter your immigration status in the UK, your human rights matter! Here are 
   - Note that employers are not allowed to hold on to your passport or any of your other official documents, except if they are completing a right to work check, which should take no more than a day. If your employer is holding onto your passport without your agreement, they could be breaking the law.
 
 **What TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS**
+
 If immigration officers or the police stop you in the street and ask about your immigration status:
 - You DO NOT have to answer any questions.
 - You DO NOT have to tell them your name or address.
@@ -200,21 +201,18 @@ We call on the government to:
 - Give all domestic workers identified as potential victims of trafficking and slavery the right to work while they wait for a final decision under the National Referral Mechanism (further information [here](http://www.kalayaan.org.uk/campaign-posts/dignity-not-destitution-the-impact-of-differential-rights-of-work-for-migrant-domestic-workers-in-the-national-referral-mechanism/)).
 - End the hostile environment.
 
-| **Useful contacts** |
-| --- |
-|
+**Useful contacts**
 - [The Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/)
-	- Contact: https://www.thevoiceofdomesticworkers.com/copy-of-contact
+  - Contact: https://www.thevoiceofdomesticworkers.com/copy-of-contact
 
 - [Kalayaan](http://www.kalayaan.org.uk/contact-us/)
-	- Opening Hours: Monday through Friday, 10:00am —5:00pm. 
-	- Email: info@kalayaan.org.uk
-	- Telephone: For advice, please make an appointment by phoning 020 7243 2942. Advice sessions are available Monday – Friday and select Sundays. Due to high demand the Sunday sessions are only bookable from after the Monday of the same week.
+  - Opening Hours: Monday through Friday, 10:00am —5:00pm. 
+  - Email: info@kalayaan.org.uk
+  - Telephone: For advice, please make an appointment by phoning 020 7243 2942. Advice sessions are available Monday – Friday and select Sundays. Due to high demand the Sunday sessions are only bookable from after the Monday of the same week.
 
 - [Rights of Women](https://rightsofwomen.org.uk/get-advice/)
-	- Email: info@row.org.uk
+- Email: info@row.org.uk
 
 - [Anti Trafficking and Labour Exploitation Unit](https://atleu.org.uk/)
-	- Telephone: 020 7700 7311
-	- Email: atleuteam@atleu.org.uk |
-
+  - Telephone: 020 7700 7311
+  - Email: atleuteam@atleu.org.uk
