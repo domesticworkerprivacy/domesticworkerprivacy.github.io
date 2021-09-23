@@ -1,7 +1,12 @@
 # Digital Privacy & Security Guide
 ##### *Reconfigure & Voice of Domestic Workers*
 
+### ***Who did produce this guide?***
+This guide was put together by a team of researchers at the University of Oxford and King’s College London, in collaboration with [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), an education and support group run by and for migrant domestic workers and Migrants Organise, a grassroots platform where migrants and refugees organise for justice.
 
+We produced the guide after five workshops with migrant domestic workers, where we discussed different threats to digital privacy and security and advice for staying safe.
+
+*
 You can use the [editor on GitHub](https://github.com/domesticworkerprivacy/domesticworkerprivacy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
