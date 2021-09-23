@@ -78,16 +78,15 @@ No matter your immigration status in the UK, your human rights matter! Here are 
   - Keep the numbers of people and organisations that you can call when you need help with you at all times – these could include your local police station, your solicitor, your friends, [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/) and other support organisations.
   - Note that employers are not allowed to hold on to your passport or any of your other official documents, except if they are completing a right to work check, which should take no more than a day. If your employer is holding onto your passport without your agreement, they could be breaking the law.
 
-`**What TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS**`
+**What TO DO IF YOU ARE STOPPED BY IMMIGRATION OFFICERS**
+If immigration officers or the police stop you in the street and ask about your immigration status:
+- You DO NOT have to answer any questions.
+- You DO NOT have to tell them your name or address.
+- Tell them that you do not want to talk to them.
+- Stay polite but confident.
+- You can walk away.
 
-`If immigration officers or the police stop you in the street and ask about your immigration status:`
-`- You DO NOT have to answer any questions.`
-`- You DO NOT have to tell them your name or address.`
-`- Tell them that you do not want to talk to them.`
-`- Stay polite but confident.`
-`- You can walk away.`
-
-` You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/).`
+You can find more information from Anti Raids [here](http://antiraids.net/immigration-checks-know-your-rights/raids-on-workplaces-homes/).
 
 ### Further resources
 - **Legal Advice on Immigration:**
@@ -101,13 +100,37 @@ No matter your immigration status in the UK, your human rights matter! Here are 
 - **Healthcare:**
   - Doctors of the World (based in East London) offers healthcare for anyone struggling to access the NHS by other means. They also run a telephone helpline.
 
-## …
-
+## Online Scams and Harassment
 ### Problem
+Scammers and strangers on the internet are a threat when they try to steal personal details or money or target you for harassment. Common problems include:
+- **Scams:** stealing money or information like financial details or personal information such as names, National Insurance numbers, photographs and phone numbers.
+- **Identity theft:** using personal information or stolen images or details from social media to imitate another person, including to falsely claim benefits or to scam others.
+- **Harassment:** unwanted messages or attacks online, sometimes including sexual harassment or harassment related to identity (like race) or activism.
+
+Migrant domestic workers can be specifically targeted by scams due to their status: for example, scammers might offer fake job opportunities or threaten to report you to the Home Office. These kinds of threats can also come from people you meet online; for example, in online dating. Harassment can also come as a result of online activism: speaking out online can lead to attacks like ‘Zoom-bombing’, where strangers intrude on an online meeting and share offensive messages. It can be hard to know who to trust online, as sometimes scammers or ‘trolls’ (people who post harassing messages) will use fake accounts or even steal the identity of friends or family members.
 
 ### Practical advice
+No one deserves to be targeted by scams or harassed online. [Citizen’s Advice](https://www.citizensadvice.org.uk/) has some helpful advice on [how to recognise a scam](https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/) and [getting your money back after you’ve been scammed](https://www.citizensadvice.org.uk/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/) as well as protecting yourself online. Their [Online Scams Helper](https://www.citizensadvice.org.uk/consumer/scams/what-to-do-if-youve-been-scammed/) can also give you customised advice.
+
+Something might be a scam if:
+- it seems too good to be true – for example, a holiday that’s much cheaper than you’d expect
+- someone you don’t know contacts you unexpectedly
+- you suspect you’re not dealing with a real company – for example, if there’s no postal address
+- you’ve been asked to transfer money quickly and / or to hand over large sums of money (even if seemingly for a good cause)
+- you've been asked to pay in an unusual way – for example, by iTunes vouchers or through a transfer service like MoneyGram or Western Union
+- you’ve been asked to give away personal information like passwords or PINs
+- you haven't had written confirmation of what's been agreed
+
+In addition to general privacy and security advice (see Section 1), the [Citizen’s Advice](https://www.citizensadvice.org.uk/) also give advice on protecting yourself online, including:
+- Check the signs of fake online shops.
+- Pay by debit or credit card.
+- Know how your bank operates: Check your bank’s website to see how your bank will and won’t communicate with you. For example, find out what type of security questions they’ll ask if they phone you.
 
 ### Further resources
+- Citizen’s Advice: [Online Scams Helper](https://www.citizensadvice.org.uk/consumer/scams/what-to-do-if-youve-been-scammed/)
+- Citizen’s Advice: [Report a Scam](https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/)
+- [Action Fraud](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime), the UK's national reporting centre for fraud: 0300 123 2040
+- [UK Visas & Immigration: Fraud, tricks and scams: guidance](https://www.gov.uk/government/publications/frauds-tricks-and-scams/fraud-tricks-and-scams)
 
 ## …
 
