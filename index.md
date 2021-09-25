@@ -1,7 +1,7 @@
 # Digital Privacy & Security Guide
 ##### *Reconfigure & Voice of Domestic Workers*
 
-Table of contents
+Table of Contents
 =================
 
 * [About this Guide](#about-this-guide)
