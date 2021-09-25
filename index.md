@@ -98,7 +98,7 @@ You can find more information from Anti Raids [here](http://antiraids.net/immigr
   - [#PatientsNotPassports Patients Rights Advice Cards](https://drive.google.com/drive/folders/1lZBdsX-jQkFiJdRltvI-Sr-BdZuYQFQH)
   - [DOTW/JCWI Short Guide to Accessing NHS Healthcare for Migrants](https://www.jcwi.org.uk/Handlers/Download.ashx?IDMF=f785fa96-0b4e-4b02-b780-4a392ae18aef)
   - [Vaccines for All Resources for Accessing the Coronavirus Vaccine](https://www.vaccineforall.co.uk/resources)
-  - [DOTW Translated Health Information for Patients)(https://www.doctorsoftheworld.org.uk/translated-health-information/)
+  - [DOTW Translated Health Information for Patients](https://www.doctorsoftheworld.org.uk/translated-health-information/)
 - **Healthcare:**
   - Doctors of the World (based in East London) offers healthcare for anyone struggling to access the NHS by other means. They also run a telephone helpline.
 
