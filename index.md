@@ -1,6 +1,16 @@
 # Digital Privacy & Security Guide
 ##### *Reconfigure & Voice of Domestic Workers*
 
+Table of contents
+=================
+
+* [General Digital Privacy and Security Advice](#general-digital-privacy-and-security-advice)
+* [Immigration and Government Surveillance](#immigration-and-government-surveillance)
+* [Online Scams and Harassment](#online-scams-and-harassment)
+* [Employer Monitoring](#employer-monitoring)
+* [Broader Changes](#broader-changes)
+
+
 ### Who produced this guide?
 This guide was put together by a team of researchers at the University of Oxford and King’s College London, in collaboration with [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), an education and support group run by and for migrant domestic workers and Migrants Organise, a grassroots platform where migrants and refugees organise for justice.
 
