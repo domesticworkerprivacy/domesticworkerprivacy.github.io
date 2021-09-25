@@ -102,6 +102,10 @@ You can find more information from Anti Raids [here](http://antiraids.net/immigr
 - **Healthcare:**
   - Doctors of the World (based in East London) offers healthcare for anyone struggling to access the NHS by other means. They also run a telephone helpline.
 
+![Advice](Advice.png "English #PatientsNotPassports Patients Rights")
+
+![Card](Card.png "Above is a Digital GP access card, which reminds you of your right to receive treatment at a GP practice regardless of immigration status. These can be downloaded [](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2021/02/Digital_GP_Access_Card.pdf)")
+
 ## Online Scams and Harassment
 ### Problem
 Scammers and strangers on the internet are a threat when they try to steal personal details or money or target you for harassment. Common problems include:
@@ -180,7 +184,7 @@ In addition to CCTV surveillance, social media surveillance by employers can als
 - **Further information on employment tribunals:**
   - [Citizens Advice Bureau: Understanding Employment Tribunals](https://www.citizensadvice.org.uk/work/problems-at-work/employment-tribunals/understanding-employment-tribunals/)
 
-## Broader changes
+## Broader Changes
 While we hope this guide helps you take control of your digital privacy and security, it’s important to remember that the privacy and security threats we’ve described are not your fault. To keep domestic workers—and everyone else—safe online, we  need broader societal changes.
 
 Avoiding surveillance by your employer should not have to be your responsibility. Employers need to understand and respect domestic workers’ right to privacy and safety, and refrain from excessive monitoring.
