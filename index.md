@@ -107,7 +107,7 @@ You can find more information from Anti Raids [here](http://antiraids.net/immigr
 
 
 ![Card](Card.png)
-*Above is a Digital GP access card, which reminds you of your right to receive treatment at a GP practice regardless of immigration status. These can be downloaded [here](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2021/02/Digital_GP_Access_Card.pdf).*
+*Above is a Digital GP access card, which reminds you of your right to receive treatment at a GP practice regardless of immigration status. This can be downloaded [here](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2021/02/Digital_GP_Access_Card.pdf).*
 
 ## Online Scams and Harassment
 ### Problem
