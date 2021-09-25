@@ -30,7 +30,7 @@ Our guide starts with some general advice for staying safe online. The guide the
 
 Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
 
-## General Digital Privacy and Security Advice
+`## General Digital Privacy and Security Advice` 
 **1. Think before you click**
 - Do not click on or download anything you don’t trust
 - Be careful about giving personal information away
@@ -60,7 +60,7 @@ You can check out these quick privacy guides for your favorite sites to understa
 - [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
 - [EFF Surveillance Self Defence Guide](https://ssd.eff.org/en)
 
-## Immigration and Government Surveillance
+`## Immigration and Government Surveillance`
 ### Problem
 The UK’s ‘hostile environment’ can make life in the UK difficult and expensive, especially if you do not have indefinite leave to remain. Many workers reported a fear of government institutions, specifically the Home Office and the police, due to the power these structures have over the immigration status of workers. You might feel concern or confusion about your rights, from topics like accessing healthcare in the UK to seeking advice and protection from excessive policing.
 
@@ -104,7 +104,7 @@ You can find more information from Anti Raids [here](http://antiraids.net/immigr
 - **Healthcare:**
   - Doctors of the World (based in East London) offers healthcare for anyone struggling to access the NHS by other means. They also run a telephone helpline.
 
-## Online Scams and Harassment
+`## Online Scams and Harassment`
 ### Problem
 Scammers and strangers on the internet are a threat when they try to steal personal details or money or target you for harassment. Common problems include:
 - **Scams:** stealing money or information like financial details or personal information such as names, National Insurance numbers, photographs and phone numbers.
@@ -136,7 +136,7 @@ In addition to general privacy and security advice (see Section 1), the [Citizen
 - [Action Fraud](https://www.actionfraud.police.uk/reporting-fraud-and-cyber-crime), the UK's national reporting centre for fraud: 0300 123 2040
 - [UK Visas & Immigration: Fraud, tricks and scams: guidance](https://www.gov.uk/government/publications/frauds-tricks-and-scams/fraud-tricks-and-scams)
 
-## Employer Monitoring
+`## Employer Monitoring`
 ### Problem
 Excessive employer monitoring - for example, constant CCTV surveillance or social media stalking - can be a huge threat to your security and privacy. Constant recording can make you feel uncomfortable and stop you from sitting down, resting, or speaking to your family on the phone. Employers should not install cameras or recording devices in private spaces, such as bedrooms and bathrooms. CCTV recording can also be used against you or get you in trouble; for example, if it produces evidence that you were working without a legal right to do so.
 
@@ -182,7 +182,7 @@ In addition to CCTV surveillance, social media surveillance by employers can als
 - **Further information on employment tribunals:**
   - [Citizens Advice Bureau: Understanding Employment Tribunals](https://www.citizensadvice.org.uk/work/problems-at-work/employment-tribunals/understanding-employment-tribunals/)
 
-## Broader changes
+`## Broader changes`
 While we hope this guide helps you take control of your digital privacy and security, it’s important to remember that the privacy and security threats we’ve described are not your fault. To keep domestic workers—and everyone else—safe online, we  need broader societal changes.
 
 Avoiding surveillance by your employer should not have to be your responsibility. Employers need to understand and respect domestic workers’ right to privacy and safety, and refrain from excessive monitoring.
