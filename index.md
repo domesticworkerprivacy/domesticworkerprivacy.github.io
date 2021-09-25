@@ -3,6 +3,8 @@
 
 ## Table of Contents
 * [About this Guide](#about-this-guide)
+  * [Who produced this guide?](#who-produced-this-guide?)
+  * [Purpose of this guide](#purpose-of-this-guide)
 * [General Digital Privacy and Security Advice](#general-digital-privacy-and-security-advice)
 * [Immigration and Government Surveillance](#immigration-and-government-surveillance)
 * [Online Scams and Harassment](#online-scams-and-harassment)
