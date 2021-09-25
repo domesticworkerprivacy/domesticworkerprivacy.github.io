@@ -102,9 +102,11 @@ You can find more information from Anti Raids [here](http://antiraids.net/immigr
 - **Healthcare:**
   - Doctors of the World (based in East London) offers healthcare for anyone struggling to access the NHS by other means. They also run a telephone helpline.
 
-![Advice](Advice.png "English #PatientsNotPassports Patients Rights")
+![Advice](Advice.png)
+English #PatientsNotPassports Patients Rights
 
-![Card](Card.png "Above is a Digital GP access card, which reminds you of your right to receive treatment at a GP practice regardless of immigration status. These can be downloaded [](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2021/02/Digital_GP_Access_Card.pdf)")
+![Card](Card.png)
+Above is a Digital GP access card, which reminds you of your right to receive treatment at a GP practice regardless of immigration status. These can be downloaded [](https://www.doctorsoftheworld.org.uk/wp-content/uploads/2021/02/Digital_GP_Access_Card.pdf)
 
 ## Online Scams and Harassment
 ### Problem
