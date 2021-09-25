@@ -12,7 +12,7 @@
 * [Broader Changes](#broader-changes)
 
 ## About this Guide
-### Who produced this guide
+### Who produced this guide?
 This guide was put together by a team of researchers at the University of Oxford and King’s College London, in collaboration with [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), an education and support group run by and for migrant domestic workers and Migrants Organise, a grassroots platform where migrants and refugees organise for justice.
 
 We produced the guide after five workshops with migrant domestic workers, where we discussed different threats to digital privacy and security and advice for staying safe.
