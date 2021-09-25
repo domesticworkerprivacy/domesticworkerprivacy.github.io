@@ -2,8 +2,6 @@
 ##### *Reconfigure & Voice of Domestic Workers*
 
 ## Table of Contents
-===================
-
 * [About this Guide](#about-this-guide)
 * [General Digital Privacy and Security Advice](#general-digital-privacy-and-security-advice)
 * [Immigration and Government Surveillance](#immigration-and-government-surveillance)
