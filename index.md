@@ -7,17 +7,8 @@
   * [Purpose of this guide](#purpose-of-this-guide)
 * [General Digital Privacy and Security Advice](#general-digital-privacy-and-security-advice)
 * [Immigration and Government Surveillance](#immigration-and-government-surveillance)
-  * [Problem](#problem)
-  * [Practical advice](#practical-advice)
-  * [Further resources](#further-resources)
 * [Online Scams and Harassment](#online-scams-and-harassment)
-  * [Problem](#problem)
-  * [Practical advice](#practical-advice)
-  * [Further resources](#further-resources)
 * [Employer Monitoring](#employer-monitoring)
-  * [Problem](#problem)
-  * [Practical advice](#practical-advice)
-  * [Further resources](#further-resources)
 * [Broader Changes](#broader-changes)
 
 ***Date published: 16 September 2021***
