@@ -55,11 +55,12 @@ Our guide starts with some general advice for staying safe online. The guide the
 Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
 
 ## General Digital Privacy and Security Advice
-**1. Think before you click**
+**Think before you click**
 - Do not click on or download anything you don’t trust
 - Be careful about giving personal information away
 
-**2. Get comfortable with your site’s privacy settings**
+**Get comfortable with your site’s privacy settings**
+
 You can check out these quick privacy guides for your favorite sites to understand which privacy options they have. Wherever possible, it is valuable to reduce how much information about you is public and accessible online. Sometimes these settings can be confusing; you don’t have to read all of these guides but you may find the links helpful to have. One way to make this easier is teaming up with a friend to check your privacy settings together.
 - [Facebook](https://www.facebook.com/about/basics/stay-safe-and-secure)
 - [Google (Gmail, Google Photos, YouTube, etc.)](https://myaccount.google.com/security?pli=1)
@@ -72,7 +73,7 @@ You can check out these quick privacy guides for your favorite sites to understa
 - [Twitter](https://help.twitter.com/en/groups/57-safety-security)
 - [WhatsApp](https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en)
 
-**3. Take time to secure your accounts and devices**
+**Take time to secure your accounts and devices**
 - Make sure you have a **strong password** for your email accounts that you don't use anywhere else. If you’re worried about remembering lots of different passwords, you can use a [password manager](https://www.ncsc.gov.uk/blog-post/what-does-ncsc-think-password-managers).
   - Some websites let you add a second step when you log in to your account – this is known as ‘two-factor authentication’. This makes it harder for scammers to access your accounts. [Find out how to set up two-factor authentication](https://www.ncsc.gov.uk/guidance/setting-two-factor-authentication-2fa) across services like Gmail, Facebook, Twitter, LinkedIn, Outlook and iTunes on the National Cyber Security Centre website.
 
