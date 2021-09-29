@@ -75,7 +75,7 @@ You can check out these quick privacy guides for your favourite sites to underst
 - [Telegram](https://privacyinternational.org/guide-step/3952/telegram-account-settings)
 - [TikTok](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-controls)
 - [Tumblr](https://tumblr.zendesk.com/hc/en-us/sections/205844687-Account-security)
-- [Twitter](https://help.twitter.com/en/groups/57-safety-security)
+- [Twitter](https://help.twitter.com/en/safety-and-security/twitter-privacy-settings)
 - [WhatsApp](https://faq.whatsapp.com/general/security-and-privacy/how-to-change-your-privacy-settings/?lang=en)
 
 **Take time to secure your accounts and devices**
@@ -83,8 +83,8 @@ You can check out these quick privacy guides for your favourite sites to underst
   - Some websites let you add a second step when you log in to your account – this is known as ‘two-factor authentication’. This makes it harder for scammers to access your accounts. [Find out how to set up two-factor authentication](https://www.ncsc.gov.uk/guidance/setting-two-factor-authentication-2fa) across services like Gmail, Facebook, Twitter, LinkedIn, Outlook and iTunes on the National Cyber Security Centre website.
 
 - Consider using **antivirus software** on your laptop or phone, and if you already have it, make sure it is up to date to give you more protection.
-- Check if your details have been shared online (the website Have I Been Pwned can help you [check whether your accounts have been put at risk](https://haveibeenpwned.com/).
-- check if your website’s connection is secure (look for HTTPs lock icons in the browser address bar). Try to avoid visiting websites where HTTPs has not been enabled (that is, HTTP).
+- Check if your details have been shared online (the website Have I Been Pwned can help you [check whether your accounts have been put at risk](https://haveibeenpwned.com/). If one of your accounts have been breached, change your password.
+- Check if your website’s connection is secure (look for HTTPs lock icons in the browser address bar). Try to avoid visiting websites where HTTPs has not been enabled (that is, HTTP).
 
 ### Further resources:
 - [DIY Guide to Feminist Cybersecurity](https://hackblossom.org/cybersecurity/)
