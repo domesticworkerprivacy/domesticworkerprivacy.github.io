@@ -1,6 +1,5 @@
 # Digital Privacy & Security Guide
 ### *For migrant domestic workers*
-### *By Reconfigure & Voice of Domestic Workers*
 
 ## Table of Contents
 * [About this Guide](#about-this-guide)
