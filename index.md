@@ -1,5 +1,6 @@
 # Digital Privacy & Security Guide
-#### *Reconfigure & Voice of Domestic Workers*
+### *For migrant domestic workers*
+### *By Reconfigure & Voice of Domestic Workers*
 
 ## Table of Contents
 * [About this Guide](#about-this-guide)
@@ -20,13 +21,26 @@
   * [Further resources](#further-resources-3)
 * [Broader Changes](#broader-changes)
 
-***Date published: 16 September 2021***
+***Date published: 29 September 2021***
 
-***Date last updated: 16 September 2021***
+***Date last updated: 29 September 2021***
 
 ## About this Guide
+
+### Purpose of this guide
+We have written this guide to help migrant domestic workers in the UK and elsewhere to keep themselves safe and protect their privacy both online and offline. Privacy refers to how much others (such as the government, employers or even friends and family) can access information about you. We are also concerned with defending against “surveillance”, which is a word for close monitoring and observation by someone in power.
+
+| Key term | |
+| --- | --- |
+| `Privacy` | How much information you want others (such as the government, employers or even friends and family) to know about you |
+| `Surveillance` | Close monitoring and observation by someone in power, such as the government or an employer |
+
+Our guide starts with some general advice for staying safe online. The guide then focuses on three specific kinds of privacy threat: government surveillance; online scams and strangers; and employer monitoring. These are the threats that domestic workers identified and described to us in five online workshops in May-June 2021.
+
+Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
+
 ### Who produced this guide?
-This guide was put together by a team of researchers at the University of Oxford and King’s College London, in collaboration with [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), an education and support group run by and for migrant domestic workers and Migrants Organise, a grassroots platform where migrants and refugees organise for justice.
+This guide was put together by a team of researchers at the University of Oxford and King’s College London, in collaboration with [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), an education and support group run by and for migrant domestic workers and [Migrants Organise](https://www.migrantsorganise.org/), a grassroots platform where migrants and refugees organise for justice.
 
 We produced the guide after five workshops with migrant domestic workers, where we discussed different threats to digital privacy and security and advice for staying safe.
 
@@ -42,17 +56,6 @@ Contributors:
 - Mallika Balakrishnan, Migrants Organise
 - Natalie Sedacca, University of Exeter & Kalayaan Trustee
 
-### Purpose of this guide
-We have written this guide to help migrant domestic workers in the UK and elsewhere to keep themselves safe and protect their privacy both online and offline. Privacy refers to how much others (such as the government, employers or even friends and family) can access information about you. We are also concerned with defending against “surveillance”, which is a word for close monitoring and observation by someone in power.
-
-| Key term | |
-| --- | --- |
-| `Privacy` | How much information you want others (such as the government, employers or even friends and family) to know about you |
-| `Surveillance` | Close monitoring and observation by someone in power, such as the government or an employer |
-
-Our guide starts with some general advice for staying safe online. The guide then focuses on three specific kinds of privacy threat: government surveillance; online scams and strangers; and employer monitoring. These are the threats that domestic workers identified and described to us in five online workshops in May-June 2021.
-
-Each section includes a summary of the problem, practical steps you can take to defend yourself, and further resources. We conclude with calling for broader changes which should happen to keep domestic workers safe. This is because we do not think you should have to be responsible for worrying about your safety all the time: laws, technology and employment practices should be changed to create a fairer and safer world for domestic workers.
 
 ## General Digital Privacy and Security Advice
 **Think before you click**
@@ -61,7 +64,7 @@ Each section includes a summary of the problem, practical steps you can take to 
 
 **Get comfortable with your site’s privacy settings**
 
-You can check out these quick privacy guides for your favorite sites to understand which privacy options they have. Wherever possible, it is valuable to reduce how much information about you is public and accessible online. Sometimes these settings can be confusing; you don’t have to read all of these guides but you may find the links helpful to have. One way to make this easier is teaming up with a friend to check your privacy settings together.
+You can check out these quick privacy guides for your favourite sites to understand which privacy options they have. Wherever possible, it is valuable to reduce how much information about you is public and accessible online. Sometimes these settings can be confusing; you don’t have to read all of these guides, but you may find the links helpful to have. One way to make this easier is teaming up with a friend to check your privacy settings together.
 - [Facebook](https://www.facebook.com/about/basics/stay-safe-and-secure)
 - [Google (Gmail, Google Photos, YouTube, etc.)](https://myaccount.google.com/security?pli=1)
 - [imo](https://www.ecpat.lk/wp-content/uploads/2015/12/Imo-Security-Privacy-Settings.pdf)
@@ -94,7 +97,7 @@ No matter your immigration status in the UK, your human rights matter! Here are 
 - **Join an organisation** such as [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), which can provide a sense of community as well as help you learn and mobilise on relevant issues.
 - **Join a union** such as [Unite the Union](https://www.unitetheunion.org/) (one of the UK’s largest trade unions), which can offer advice and help you understand your legal rights at work. They can also communicate on your behalf with legal aid organisations and lawyers.
 - **Make a note** of legal aid organisations or law centres in your area - the Law Centres Network can provide legal advice on immigration along with other concerns, such as employment, housing and healthcare.
-- **Know your rights.** This can apply to a wide range of issues; for example, health, housing and employment. [Kalayaan](http://www.kalayaan.org.uk/contact-us/), a London-based charity for domestic workers, also suggests the following advice:
+- **Know your rights.** This can apply to a wide range of issues, for example, health, housing and employment. [Kalayaan](http://www.kalayaan.org.uk/contact-us/), a London-based charity for domestic workers, also suggests the following advice:
   - Keep a copy of your passport and Biometric Residence Permit (PRB) and give a copy to a trusted friend or relative.
   - Open an email account that your employer cannot access and give the password to a trusted friend.
   - Give the contact details of your employer and any support organisations that are helping you to your family in your country.
@@ -143,7 +146,7 @@ Scammers and strangers on the internet are a threat when they try to steal perso
 - **Identity theft:** using personal information or stolen images or details from social media to imitate another person, including to falsely claim benefits or to scam others.
 - **Harassment:** unwanted messages or attacks online, sometimes including sexual harassment or harassment related to identity (like race) or activism.
 
-Migrant domestic workers can be specifically targeted by scams due to their status: for example, scammers might offer fake job opportunities or threaten to report you to the Home Office. These kinds of threats can also come from people you meet online; for example, in online dating. Harassment can also come as a result of online activism: speaking out online can lead to attacks like ‘Zoom-bombing’, where strangers intrude on an online meeting and share offensive messages. It can be hard to know who to trust online, as sometimes scammers or ‘trolls’ (people who post harassing messages) will use fake accounts or even steal the identity of friends or family members.
+Migrant domestic workers can be specifically targeted by scams due to their status: for example, scammers might offer fake job opportunities or threaten to report you to the Home Office. These kinds of threats can also come from people you meet online, for example, in online dating. Harassment can also come as a result of online activism: speaking out online can lead to attacks like ‘Zoom-bombing’, where strangers intrude on an online meeting and share offensive messages. It can be hard to know who to trust online, as sometimes scammers or ‘trolls’ (people who post harassing messages) will use fake accounts or even steal the identity of friends or family members.
 
 ### Practical advice
 No one deserves to be targeted by scams or harassed online. [Citizen’s Advice](https://www.citizensadvice.org.uk/) has some helpful advice on [how to recognise a scam](https://www.citizensadvice.org.uk/consumer/scams/check-if-something-might-be-a-scam/) and [getting your money back after you’ve been scammed](https://www.citizensadvice.org.uk/consumer/scams/check-if-you-can-get-your-money-back-after-a-scam/) as well as protecting yourself online. Their [Online Scams Helper](https://www.citizensadvice.org.uk/consumer/scams/what-to-do-if-youve-been-scammed/) can also give you customised advice.
@@ -158,8 +161,8 @@ Something might be a scam if:
 - you haven't had written confirmation of what's been agreed
 
 In addition to general privacy and security advice (see Section 1), the [Citizen’s Advice](https://www.citizensadvice.org.uk/) also give advice on protecting yourself online, including:
-- Check the signs of fake online shops.
-- Pay by debit or credit card.
+- Check the signs of fake online shops
+- Pay by debit or with credit card
 - Know how your bank operates: Check your bank’s website to see how your bank will and won’t communicate with you. For example, find out what type of security questions they’ll ask if they phone you.
 
 ### Further resources
@@ -200,7 +203,7 @@ In addition to CCTV surveillance, social media surveillance by employers can als
   - Consider sharing your comfort level and security/privacy concerns with regard to cameras, such as whether having cameras inside houses to monitor workers is a sign of trust and respect or not.
   - If you are facing very intrusive recording that you are not comfortable with (for example, audio recording in private places), and your employer refuses to change their behaviour (or your relationship is such that you are unable to initiate a conversation about it), consider seeking advice on your specific situation from an organisation like [Voice of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/), or [Citizen’s Advice](https://www.citizensadvice.org.uk/).
   - In certain circumstances excessive monitoring could give rise to a legal claim. This would usually be brought in an Employment Tribunal, a specialist body that makes decisions about disputes between employers and employees, such as [unfair or constructive dismissal](https://www.gov.uk/dismissal/unfair-and-constructive-dismissal) and shortfalls in wages.
-    - **You should obtain legal advice on your specific situation from support organisations or a solicitor before making a claim** (ie reporting a problem to the tribunal). Although you are allowed to bring a claim without legal representation, this is likely to be difficult and complex, particularly if your immigration status is insecure.
+    - **You should get legal advice on your specific situation from support organisations or a solicitor before making a claim** (i.e. reporting a problem to the tribunal). Although you are allowed to bring a claim without legal representation, this is likely to be difficult and complex, particularly if your immigration status is insecure.
     - There are strict time limits for bringing employment tribunal claims, so you should get advice as early as you can.
     - In some cases it may be possible to resolve a case before it gets to a final hearing.
     - An Employment Tribunal is supposed to be less formal than an ordinary court, but this does not always mean that proceedings are easy to follow.
@@ -219,7 +222,7 @@ While we hope this guide helps you take control of your digital privacy and secu
 
 Avoiding surveillance by your employer should not have to be your responsibility. Employers need to understand and respect domestic workers’ right to privacy and safety, and refrain from excessive monitoring.
 
-The government also has responsibilities to keep domestic workers safe, and needs to make changes to do so. We support organisations such as [Voice of Domestic Workers in their campaign to reinstate the Overseas Domestic Worker Visa](https://www.thevoiceofdomesticworkers.com/), which guaranteed some basic rights for migrant workers. This visa was unfortunately [changed in 2012](https://www.labourexploitation.org/news/international-domestic-workers%E2%80%99-day-2019-rights-domestic-workers-uk-need-far-reaching-and), so that conditions for workers became much less favourable.Since 2012, migrant domestic workers are instead tied to their employers on six month non-renewable visas, which makes them often unable to escape situations of abuse or harassment. While this visa exists and continues to force workers to be dependent on specific employers, migrant domestic workers have severely limited freedoms and basic human rights are often [not valued](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26423). This has a direct impact on digital privacy and security. For example, it would be far easier for a worker to confront their employer about surveillance if that worker had more secure employment and immigration status.
+The government also has responsibilities to keep domestic workers safe, and needs to make changes to do so. We support organisations such as [Voice of Domestic Workers in their campaign to reinstate the Overseas Domestic Worker Visa](https://www.thevoiceofdomesticworkers.com/), which guaranteed some basic rights for migrant workers. This visa was unfortunately [changed in 2012](https://www.labourexploitation.org/news/international-domestic-workers%E2%80%99-day-2019-rights-domestic-workers-uk-need-far-reaching-and), so that conditions for workers became much less favourable. Since 2012, migrant domestic workers are instead tied to their employers on six month non-renewable visas, which makes them often unable to escape situations of abuse or harassment. While this visa exists and continues to force workers to be dependent on specific employers, migrant domestic workers have severely limited freedoms and basic human rights are often [not valued](https://spcommreports.ohchr.org/TMResultsBase/DownLoadPublicCommunicationFile?gId=26423). This has a direct impact on digital privacy and security. For example, it would be far easier for a worker to confront their employer about surveillance if that worker had more secure employment and immigration status.
 
 Creating safe conditions for migrant domestic workers will require ending hostile environment policies: the hostile environment tries to make the UK inhospitable for undocumented migrants, ultimately creating violent and discriminatory realities for all migrants as well as people of colour. British institutions such as the Home Office continue trying to strengthen the hostile environment, endangering migrants. For example, the UK government is currently pushing a new Nationality and Borders Bill through Parliament. The new bill [seeks](https://drive.google.com/file/d/1rhknz24ml_lvGeK-qA6VuE0vrhTKcBRc/view) to strengthen this government’s ability to criminalise people who seek sanctuary in the UK, while at the same time restricting access to crucial resources, such as support for victims of modern slavery. The government should scrap the bill and hostile environment policies that endanger migrant workers. Migrant domestic workers in the UK should be able to access healthcare freely through a truly universal NHS, regardless of citizenship and immigrant status.
 
