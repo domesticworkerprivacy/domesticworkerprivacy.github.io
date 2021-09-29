@@ -123,7 +123,8 @@ You can find more information from Anti Raids [here](http://antiraids.net/immigr
 
 ### Further resources
 - **Legal Advice on Immigration:**
-  - [Kalayaan](http://www.kalayaan.org.uk/contact-us/), Rights of Women and Praxis all offer free advice services which can be used. [ATHUB](https://athub.org.uk/), the anti-trafficking resource, can also provide information.
+  - [Kalayaan](http://www.kalayaan.org.uk/contact-us/), [Rights of Women](https://rightsofwomen.org.uk/get-advice/) and [Praxis](https://www.praxis.org.uk/get-help) all offer free advice services
+  - [ATHUB](https://athub.org.uk/), the anti-trafficking resource, can also provide information
 - **Navigating the Hostile Environment:**
   - [Liberty Guide to the Hostile Environment](https://www.libertyhumanrights.org.uk/issue/report-a-guide-to-the-hostile-environment/)
   - [#PatientsNotPassports Patients Rights Advice Cards](https://drive.google.com/drive/folders/1lZBdsX-jQkFiJdRltvI-Sr-BdZuYQFQH)
