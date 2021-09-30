@@ -43,8 +43,7 @@ This guide was put together by a team of researchers at the University of Oxford
 
 We produced the guide after five workshops with migrant domestic workers, where we discussed different threats to digital privacy and security and advice for staying safe.
 
-**Disclaimer:** This guide is intended to provide general information and is not a substitute for getting legal advice. If you need advice on your individual situation, you should contact a solicitor or advice organisation, such as [Voice Of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/), [Praxis](https://www.praxis.org.uk/get-help), [ASIRT](http://asirt.org.uk/), [Hackney Migrant Centre](https://hackneymigrantcentre.org.uk/drop-in/),
-[Kanlungan](https://www.kanlungan.org.uk/?page_id=829), [Rights of Women](https://rightsofwomen.org.uk/get-advice/) or the [Anti-Trafficking and Labour Exploitation Unit](https://atleu.org.uk/).
+**Disclaimer:** This guide is intended to provide general information and is not a substitute for getting legal advice. If you need advice on your individual situation, you should contact a solicitor or advice organisation, such as [Voice Of Domestic Workers](https://www.thevoiceofdomesticworkers.com/), [Kalayaan](http://www.kalayaan.org.uk/contact-us/), [Praxis](https://www.praxis.org.uk/get-help), [ASIRT](http://asirt.org.uk/), [Hackney Migrant Centre](https://hackneymigrantcentre.org.uk/drop-in/), [Rights of Women](https://rightsofwomen.org.uk/get-advice/) or the [Anti-Trafficking and Labour Exploitation Unit](https://atleu.org.uk/).
 
 Contributors: 
 - Julia Slupska, University of Oxford
